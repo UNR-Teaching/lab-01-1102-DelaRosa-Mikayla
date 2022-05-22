@@ -1,3 +1,5 @@
+Github username: DelaRosa-Mikayla
+https://github.com/UNR-Teaching/lab-01-1102-DelaRosa-Mikayla#clone
 
 •What has changed? 
 	-newfile.txt has been added to the list of files
