@@ -1,0 +1,14 @@
+
+•What has changed? 
+	-newfile.txt has been added to the list of files
+
+•What do you think the > in the previous statement did when combined with the ls command?
+	-I think that the ">" took all the names of the files inside of the directory and inserted them into the newfile.txt 
+
+•What does it say about newfile.txt?
+	-Changes to be committed:
+	  (use "git restore --staged <file>..." to unstage)
+		new file:   newfile.txt
+
+•What does this command tell you about your files and their contents?
+	-This command lists the differences made to the different files 
